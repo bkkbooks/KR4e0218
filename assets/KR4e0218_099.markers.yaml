@@ -285,6 +285,7 @@ markers:
   - {type: line-break, offset: 994, content: '', id: KR4e0218_WYG_099-4a06}
   - {type: substitution, offset: 1005, original: 栢, replacement: 柏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16879}}
   - {type: punctuation, offset: 1009, content: (, id: KR4e0218_krp_099-bkkpn1}
+  - {type: voice, offset: 1009, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 1012, content: /, id: KR4e0218_krp_099-bkkpn2}
   - {type: substitution, offset: 1013, original: 栢, replacement: 柏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16879}}
   - {type: punctuation, offset: 1015, content: ), id: KR4e0218_krp_099-bkkpn3}
@@ -1019,6 +1020,7 @@ markers:
   - {type: line-break, offset: 3654, content: '', id: KR4e0218_WYG_099-12b07}
   - {type: indent, offset: 3654, content: 　　　　, id: KR4e0218_krp_099-bkkind32}
   - {type: punctuation, offset: 3654, content: (, id: KR4e0218_krp_099-bkkpn4}
+  - {type: voice, offset: 3654, length: 24, name: note, id: n2}
   - {type: substitution, offset: 3655, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 3666, content: /, id: KR4e0218_krp_099-bkkpn5}
   - {type: substitution, offset: 3667, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
@@ -1627,4 +1629,4 @@ markers:
 
       ', id: KR4e0218_krp_099-bkkkrnewl341}
   back: []
-hash: sha256:c090cbd24baf3f47330e1f1076c248fbd67405945d09ffadfc0e737776b307d7
+hash: sha256:87dd70a309165f79214b738bad3d074d63ddfeed0a8b392c780bc480bac9f8d0
